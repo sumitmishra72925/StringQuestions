@@ -1,2 +1,2 @@
 # StringQuestions
-This Repository conatin some good string based questions
+This Repository contains some good string based questions
